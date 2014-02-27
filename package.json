@@ -1,0 +1,15 @@
+{
+  "name": "Highlight CSS Colors",
+  "main": "./lib/highlight-css-color",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Highlights CSS color values with their color",
+  "activationEvents": ["highlight-css-color:toggle"],
+  "repository": "https://github.com/wonnage/highlight-css-color",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
